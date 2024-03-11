@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Session18WeatherApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Session18WeatherApp" parent="Base.Theme.Session18WeatherApp" />
+
+    <style name="RoundedCircle">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
